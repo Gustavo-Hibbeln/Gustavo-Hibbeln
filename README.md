@@ -2,7 +2,7 @@
 
 **`FrontEnd Developer`**
 
-Me chamo Gustavo Moreira Hibbeln, e amo programação desde os meus 16 anos. Escolhi Javascript como a minha primeira linguagem de aprendizado e pretendo com certeza continuar meus estudos e consequentemente aumentar meu conhecimento na área.
+Me chamo Gustavo Moreira Hibbeln, e amo programação desde os meus 16 anos. Escolhi Javascript como a minha primeira linguagem de aprendizado e aqui documento os meus estudos e consequentemente aumento os meus conhecimentos na área.
 
 
 ### 🤖 Linguagens e Tecnologias
